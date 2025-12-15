@@ -119,6 +119,7 @@ Contributions are welcome! Please submit issues or pull requests for bug fixes, 
 ## Contact / Support
 
 GitHub: https://github.com/e6pure
+Email: e6pure42@gmail.com
 
 ## License
 
